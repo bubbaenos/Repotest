@@ -9,4 +9,4 @@ r = requests.get('https://api.github.com/events')
 print(r)
 
 print(sys.version)
-time.sleep(7)
+time.sleep(8)
